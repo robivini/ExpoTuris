@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

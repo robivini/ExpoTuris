@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

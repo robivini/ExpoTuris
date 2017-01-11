@@ -1,0 +1,348 @@
+[
+    {
+        "outputFile": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 910
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2002,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 915,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1531
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1218,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1536,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1806
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 910
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2002,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 915,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1531
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1218,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1536,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1806
+                    }
+                }
+            }
+        ]
+    }
+]

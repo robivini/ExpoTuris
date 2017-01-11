@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_review.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_drawer_search.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_drawer_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_detail_map.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_location_detail_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_all_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_detail_map.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_location_detail_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_information.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_directions.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gps_enable.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\dialog_gps_enable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\activity_all_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_favorite_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_favorite_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_drawer.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_url.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\activity_show_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_url.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\activity_show_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\activity_detail_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_drawer_search.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_drawer_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gps_enable.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\dialog_gps_enable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_favorite_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_favorite_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress_bar.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_review.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress_bar.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_my_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_all_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_detail_info_window.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\custom_detail_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_detail_infomation.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_location_detail_infomation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_home.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\footer_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_quick_distance.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\dialog_quick_distance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\activity_search_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_my_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_about_us.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_directions.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_information.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_detail_info_window.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\custom_detail_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_about_us.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\item_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\activity_all_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_drawer.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\activity_search_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_quick_distance.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\dialog_quick_distance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\activity_detail_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_home.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\footer_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_detail_infomation.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\fragment_location_detail_infomation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout\\item_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

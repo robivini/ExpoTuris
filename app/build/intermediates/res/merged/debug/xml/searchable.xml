@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/title_search"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:searchSuggestAuthority="YOUR_PACKAGE_NAME.provider.MySuggestionProvider"
+    android:searchSuggestIntentData="content://YOUR_PACKAGE_NAME.provider.MySuggestionProvider/records"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestSelection=" ?"
+    android:label="@string/app_name" />

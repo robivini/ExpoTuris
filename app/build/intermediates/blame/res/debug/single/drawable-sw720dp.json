@@ -1,0 +1,738 @@
+[
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_previous_item.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bar.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bus.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_atm.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_next_item.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\park.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\park.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\small_star_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\taxi_stand.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\taxi_stand.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_half_on.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\small_star_half_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_hospital.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_off.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\big_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_shop.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_half_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\small_star_half_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_cafe.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_directions.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_directions.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bus_station.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\bus_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_all_map.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_all_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_cafe.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_facebook.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_white_action_map.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_white_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_hotel.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_zoo.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_shop.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_shop.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_my_location_pressed.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_my_location_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_important.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_cinema.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_gas_station.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_gas_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_facebook.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bar.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_about.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\add_favorite_active.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\add_favorite_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bus_station.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_bus_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_cafe.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_my_location.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_my_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_website.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_website.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_my_location.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_my_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_taxi_stand.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_taxi_stand.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\powered_by_google.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\powered_by_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bank.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_custom_search.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_custom_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\indicator.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\university.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\university.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_website.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_website.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_on.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\big_star_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_police.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_police.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bus_station.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\bus_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_expand.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_email.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\police.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\police.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_university.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_university.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_gplus.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_gplus.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bus_station.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_bus_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_map.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\police.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\police.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\park.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\park.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\add_favorite_normal.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\add_favorite_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bar.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_cinema.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\logo_about.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\logo_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_on.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\small_star_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_important.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\indicator.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_gas.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_gas.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_custom_search.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_custom_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_directions.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_directions.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_half_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\big_star_half_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\zoo.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\hotel.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_more_app.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_more_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_zoo.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\gas_station.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\gas_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_park.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\add_favorite_active.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\add_favorite_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_shop.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_zoo.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_distance.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_distance.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\atm.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_cinema.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bank.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_my_location.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_my_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_airport.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_police.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_police.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_park.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\cinema.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\shop.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\cafe.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\logo.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_refresh.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bank.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\cinema.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bank.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_map.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_taxi.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_terrain_map.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_terrain_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\add_favorite_normal.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\add_favorite_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_atm.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_my_location.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_my_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\taxi_stand.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\taxi_stand.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\university.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\university.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\gas_station.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\gas_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_address.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_address.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_phone.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_dark_action_refresh.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_dark_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_airport.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_sort_by_distance.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_sort_by_distance.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_next_item.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_taxi.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bar.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_off.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\big_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\thumb.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_gas_station.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_gas_station.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_collapse.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_hotel.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\cafe.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bus.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\thumb.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\logo.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_rate_me.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_rate_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_hospital.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_hospital.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_police.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_police.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_directions.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_directions.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_location_default.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_location_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bank.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_atm.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\airport.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\big_star_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_police.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_police.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_bank.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_bank.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_about.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_expand.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_previous_item.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_more_app.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_more_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_dark_action_refresh.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_dark_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_rate_me.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_rate_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_university.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_university.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\airport.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_white_action_map.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_white_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_collapse.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\hospital.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\powered_by_google.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\powered_by_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_cafe.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_hotel.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\zoo.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_refresh.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_sort_by_distance.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_sort_by_distance.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_gplus.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_gplus.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_off.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\small_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\slider.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\slider.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_university.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_university.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_address.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_address.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_park.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\atm.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_email.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_university.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_university.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_taxi_stand.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_taxi_stand.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_bar.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\shop.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_hotel.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\mini_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_distance.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_distance.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\big_star_half_on.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\big_star_half_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_zoo.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_zoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_park.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_location_default.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_location_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\small_star_off.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\small_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_cinema.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_action_directions.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_action_directions.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\slider.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\slider.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\hospital.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\bar.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_terrain_map.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_terrain_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\mini_airport.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\mini_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_atm.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_airport.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_all_map.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\ic_all_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\hotel.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_phone.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_gas.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_gas.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\icon_pin_hospital.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\icon_pin_hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\ic_my_location_pressed.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\drawable-sw720dp\\ic_my_location_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp\\logo_about.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw720dp\\logo_about.png"
+    }
+]

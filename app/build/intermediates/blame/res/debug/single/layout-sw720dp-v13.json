@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_settings.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_detail_info_window.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\custom_detail_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_image.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_about_us.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_directions.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_home.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_favorites.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dialog_quick_distance.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\dialog_quick_distance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dialog_quick_distance.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\dialog_quick_distance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_about.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_favorite_location.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_favorite_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_drawer_search.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_drawer_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\footer_home.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\footer_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_location_detail_infomation.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\fragment_location_detail_infomation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\splash.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_location_detail_map.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\fragment_location_detail_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_drawer.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_drawer_search.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_drawer_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\splash.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_favorite_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_favorite_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_image.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_location.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_location_detail_map.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\fragment_location_detail_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_about_us.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_info_window.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_drawer.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_settings.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\footer_home.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\footer_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_detail_info_window.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\custom_detail_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_home.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_location_detail_infomation.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\fragment_location_detail_infomation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_about.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_review.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_info_window.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\fragment_favorites.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_directions.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_review.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_information.xml",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\layout-sw720dp\\item_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\item_information.xml",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\ExpoTuris\\app\\src\\main\\res\\layout-sw720dp\\item_information.xml"
+    }
+]

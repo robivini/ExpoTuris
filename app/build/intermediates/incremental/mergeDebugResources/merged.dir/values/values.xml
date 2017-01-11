@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="list_options">
+        <item>Home</item>
+        <item>Minha localização</item>
+        <item>Favoritos</item>
+        <item>Configurações</item>
+        <item>Sobre nós</item>
+    </string-array>
+    <string-array name="metric_array">
+        <item>Quilômetros</item>
+        <item>Milhas</item>
+    </string-array>
+    <string-array name="sorting_array">
+        <item>Distância</item>
+        <item>Classificação</item>
+    </string-array>
+    <string-array name="travel_mode_array">
+        <item>Dirigindo</item>
+        <item>Andando</item>
+    </string-array>
+    <color name="black">#ff1e1e1e</color>
+    <color name="bold_grey">#ffd6d6d6</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="cyan">#d17249</color>
+    <color name="distance_cyan">#fd824c</color>
+    <color name="distance_green">#ff5bcc00</color>
+    <color name="green">#ffd8f97e</color>
+    <color name="grey">#ffe5e5e5</color>
+    <color name="light_grey">#ff525255</color>
+    <color name="light_grey1">#ffeef0f1</color>
+    <color name="main_color">#f26122</color>
+    <color name="normal_tab1">#ff313133</color>
+    <color name="normal_tab2">#ff67696c</color>
+    <color name="place_autocomplete_prediction_primary_text">#212121</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
+    <color name="place_autocomplete_prediction_secondary_text">#757575</color>
+    <color name="place_autocomplete_search_hint">#42000000</color>
+    <color name="place_autocomplete_search_text">#DE000000</color>
+    <color name="place_autocomplete_separator">#1F000000</color>
+    <color name="red">#ff8b141e</color>
+    <color name="trans_white">#50ffffff</color>
+    <color name="violet">#ff64015e</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffb18f06</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="DBSeekBarView"><attr format="reference" name="slidebar"/><attr format="reference" name="thumb"/><attr format="integer" name="max"/><attr format="integer" name="progress"/><attr format="enum" name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust">
+            <enum name="none" value="0"/>
+            <enum name="adjust_width" value="1"/>
+            <enum name="adjust_height" value="2"/>
+        </attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType">
+      <enum name="none" value="0"/>
+      <enum name="normal" value="1"/>
+      <enum name="satellite" value="2"/>
+      <enum name="terrain" value="3"/>
+      <enum name="hybrid" value="4"/>
+
+
+
+    </attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/><attr format="boolean" name="ambientEnabled"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize">
+            <enum name="standard" value="0"/>
+            <enum name="wide" value="1"/>
+            <enum name="icon_only" value="2"/>
+        </attr><attr format="reference|enum" name="colorScheme">
+            <enum name="dark" value="0"/>
+            <enum name="light" value="1"/>
+            <enum name="auto" value="2"/>
+        </attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <declare-styleable name="SlidingUpPanelLayout"><attr format="dimension" name="collapsedHeight"/><attr format="dimension" name="shadowHeight"/><attr format="color" name="fadeColor"/><attr format="integer" name="flingVelocity"/><attr format="reference" name="dragView"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="place_autocomplete_button_padding">16dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_height">40dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_start">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_height">72dp</dimen>
+    <dimen name="place_autocomplete_prediction_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_primary_text">16sp</dimen>
+    <dimen name="place_autocomplete_prediction_secondary_text">14sp</dimen>
+    <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_progress_size">24dp</dimen>
+    <dimen name="place_autocomplete_separator_start">72dp</dimen>
+    <integer name="google_play_services_version">8487000</integer>
+    <string name="accept">Accept</string>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">EXPOTURIS</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="copyright">© 2017 W PROMO PRODUÇÕES</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <string name="dircache">/leilões</string>
+    <string name="drawer_close">Fechar gaveta de navegação</string>
+    <string name="drawer_open">Abrir gaveta de navegação</string>
+    <string name="format_add_favorite">Adicionar %1$s aos locais favoritos </string>
+    <string name="format_address">Endereço: %1$s </string>
+    <string name="format_area">Area: %1$s </string>
+    <string name="format_country">Região: %1$s </string>
+    <string name="format_country_code">Codigo da Região: %1$s </string>
+    <string name="format_distance">Distância: ~%1$s</string>
+    <string name="format_duration_distance"><Data>&lt;font color=\'#000000\'>%1$s&amp;nbsp;&lt;/font>&lt;font color=\'#999999\'>(%2$s)&lt;/font></Data></string>
+    <string name="format_end_address"><Data>&lt;font color=\'#999999\'>To&amp;nbsp;&lt;/font>&lt;font color=\'#000000\'>%1$s&lt;/font></Data></string>
+    <string name="format_lat">Latitude: %1$s </string>
+    <string name="format_long">Longitude: %1$s </string>
+    <string name="format_radius">Raio: %1$s %2$s</string>
+    <string name="format_remove_favorite">Remover %1$s dos locais favoritos</string>
+    <string name="format_review">%1$s Revisões</string>
+    <string name="format_reviews">%1$s Revisões</string>
+    <string name="format_start_address"><Data>&lt;font color=\'#999999\'>From&amp;nbsp;&lt;/font>&lt;font color=\'#000000\'>%1$s&lt;/font></Data></string>
+    <string name="format_sumary"><Data>&lt;font color=\'#999999\'>Via %1$s&lt;/font></Data></string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="info_about_us"><b>\"%1$s\"</b> permite você se mover encontrar os melhores melhores e mais maravilhosos lugares a sua volta</string>
+    <string name="info_close_app">Você deseja sair da aplicação?</string>
+    <string name="info_contact_us">Contate-nos se você precisar de alguma ajuda</string>
+    <string name="info_delete_favorites">Você deseja deletar todas as suas localidades favoritas?</string>
+    <string name="info_distance_km_format">~ %1$s km</string>
+    <string name="info_distance_miles_format">~ %1$s mi</string>
+    <string name="info_empty">Entre com a senha por favor!</string>
+    <string name="info_facebook">Visite nossa fanpage</string>
+    <string name="info_format_process_detail_location">Começando a pegar informações de %1$s </string>
+    <string name="info_format_process_find_location">Começando busca por %1$s perto de você </string>
+    <string name="info_get_location_error">Erro ao pegar localização. Por favor, tente novamente mais tarde</string>
+    <string name="info_google_plus">Visite nossa página</string>
+    <string name="info_gps_enable">Ligue o GPS para melhorar sua localização</string>
+    <string name="info_loading_more">Procurando mais locais perto de você. Por favor, espere...</string>
+    <string name="info_location_services_disable">%1$s precisa acessar sua localidade. Por gentileza, ative sua localização</string>
+    <string name="info_login_facebook_error">Falha ao entrar com Facebook! Tente novamente</string>
+    <string name="info_login_twitter_error">Falha ao entrar com Twitter! Tente novamente</string>
+    <string name="info_lose_internet">Sem conexão com a internet.Por favor, verifique sua conexão novamente!</string>
+    <string name="info_more_app">Curta nossas apllicações.</string>
+    <string name="info_no_delete_favorites">Nenhuma localidade favorita para deletar!</string>
+    <string name="info_no_location">Não foi possível encontrar locais ao seu redor</string>
+    <string name="info_no_result">Nenhum resultado encontrado</string>
+    <string name="info_parse_error">Não conseguimos processar os dados. Por favor, tente novamente!</string>
+    <string name="info_process_find_location">Encontrando sua localização. Aguarde...</string>
+    <string name="info_processing_data">Em processamento. Por favor, espere...</string>
+    <string name="info_rate_us">Classifique-nos na Google Play Store</string>
+    <string name="info_server_error">Não conseguimos conectar com o servidor. Por favor, tente novamente!</string>
+    <string name="info_show_again">Não me mostre novamente</string>
+    <string name="info_version_format">Versão %1$s</string>
+    <string name="info_website">Visite nosso website</string>
+    <string name="link_contact_us">Email</string>
+    <string name="loading">Por favor aguarde...</string>
+    <string name="lru_dircache">leilões</string>
+    <string name="menu_location_details">Informações do local</string>
+    <string name="menu_location_satellite">Visão do Satélite</string>
+    <string name="menu_location_terrain">Visão do Terreno</string>
+    <string name="menu_location_traffic">Visão do Trafégo</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="quit_message">Você deseja fechar essa aplicação?</string>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="tab_infomation">Informação</string>
+    <string name="tab_map">Mapa</string>
+    <string name="title_all_place">Todos os locais no mapa</string>
+    <string name="title_back">Voltar</string>
+    <string name="title_cancel">Cancelar</string>
+    <string name="title_confirm">Confirmar</string>
+    <string name="title_contact_us">Contate-nos</string>
+    <string name="title_custom_search">PERSONALIZADO</string>
+    <string name="title_distance">Distância</string>
+    <string name="title_enable">Ativado</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_get_directions">Obter Direções</string>
+    <string name="title_google_plus">Google +</string>
+    <string name="title_image">Imagem</string>
+    <string name="title_images">Imagens</string>
+    <string name="title_improve_location">Aperfeiçoe sua localidade</string>
+    <string name="title_info">Informação</string>
+    <string name="title_location_services_disable">Serviço de localização desabilitado</string>
+    <string name="title_more_app">Mais apps</string>
+    <string name="title_my_location">Minha Localidade</string>
+    <string name="title_no">Não</string>
+    <string name="title_ok">OK</string>
+    <string name="title_piority">Prioridade</string>
+    <string name="title_place_info">Informação do local</string>
+    <string name="title_quick_distance">Trocar Raio</string>
+    <string name="title_rate_us">Classifique-nos</string>
+    <string name="title_rating">Classificação</string>
+    <string name="title_refresh">Atualizar</string>
+    <string name="title_search">Procurar Localização</string>
+    <string name="title_settings">Configurações</string>
+    <string name="title_share">Compartilhar</string>
+    <string name="title_sort_by_distance">Ordenar pela distancia</string>
+    <string name="title_sort_by_rating">Ordenar pela classificação</string>
+    <string name="title_travel_modes">Modelos de Viagem</string>
+    <string name="title_units">Sistemas de unidade</string>
+    <string name="title_unknown_address">Endereco não encontrado</string>
+    <string name="title_unknown_location">Local não encontrado</string>
+    <string name="title_user_reviews">Revisões do Usuário</string>
+    <string name="title_warning">Atenção</string>
+    <string name="title_warning_close">Sair</string>
+    <string name="title_website">Website</string>
+    <string name="title_yes">Sim</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <style name="big_ratingbar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_big_holo_light</item>
+    </style>
+    <style name="small_ratingbar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_small_holo_light</item>
+    </style>
+</resources>

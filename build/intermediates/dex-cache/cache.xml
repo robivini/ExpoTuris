@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_62cf19d5af69120d55b27c6c4f90108de171c453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_96acbbffed41a2117de8b64df6d41bdba9438a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\libs\ypylibs.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ac1684fa1e9105fca9400a1176a1919ba73c9774">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\ypylibs_724ff8a1fdd30cbffcdd928c21706437fa292603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_6970b274350ccf9cc498165d4a97c1fac5ae6efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6fe1914ae80acdfc529a6c698c4e60a594d41425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a8725a593adbd4ec5bcca195a1940592d22ba3b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b6a61d5dd415491eeaba4e1dfc8c1dbaef1e7760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="96ae5a00e69f1df8c0f0904085d1935749928f8c">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_935f23895722a9da83cea2601239d4bb0ab4ec36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_d23872377a2d987b9539548191243bca79d964f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_b908ef16468d9719cbe9287d252a172f7ad39188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_c80950fb0dc9cdf88585ba19e421d66433f49461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8a3b07d57aa0ecf47bfaf799bafa19c572d7a0e7">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42bbdd52c417bc9f98497fe1a0e448e31e0e9305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_9be8de489f6fe0e50cc0c0d0c7da06db3bd5e02b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_eed7798edef9396fdebfd884abe7f26135aaf78b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\libs\httpmime-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="92b7ae91cb55150192341962dd7254ef898768ca">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.2_f056bec353e402edd00b6069d8139b397aa05593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_91206322c74423d95b33b512bf4dc0298c00d976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_2cf28f8cf477b72c1728bc43c71c4ac41824c224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c256a9de3718b764b4cf37a6ac96049cefad2e47">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9de1cec15703149cdf302a3d1b4cb528deeda74b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\libs\ypylibs.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ac1684fa1e9105fca9400a1176a1919ba73c9774">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\ypylibs_612290b79716cfd7ca8ac8da2a4dbaeac9b9f72a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\libs\httpmime-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="92b7ae91cb55150192341962dd7254ef898768ca">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.2_00c87fa9de21bbdd57bfed66257dc68d649059f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_6e45f7868a0bbeb1e57a34feaf0133b554210e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_7fea6246866b36cadb0df327b226e7774a1cc679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_cc2dffe7439de101745f28482d389cb24417ed02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_dedb1723d72e8565807ef296a104434e0479cda5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a1f66d2ff3b25469a5b09cab3d8ccd5a99771979">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7eb4dbe400bd55f61dec1e63cd10d65bb82a6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Agencia-03\Desktop\where my places\SourceCode\AndroidStudio\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_a608b64c51a38a427c2451adefe8d8f910aa2d46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Agencia-03\AndroidStudioProjects\WheresMyPlacesCodeCayon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_13716896478f1d1e3619b5a153f986de2d8d26d7\classes.dex" />
+    </item>
+
+</items>

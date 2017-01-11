@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EXPOTURIS</string>
+    
+    <string name="copyright">© 2017 W PROMO PRODUÇÕES</string>
+    
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="loading">Por favor aguarde...</string>
+    <string name="title_yes">Sim</string>
+    <string name="title_no">Não</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancelar</string>
+    <string name="title_info">Informação</string>
+    <string name="title_my_location">Minha Localidade</string>
+    <string name="title_unknown_location">Local não encontrado</string>
+    <string name="title_unknown_address">Endereco não encontrado</string>
+    
+    <string name="title_confirm">Confirmar</string>
+    
+    <string name="title_warning">Atenção</string>
+    
+    <string name="title_share">Compartilhar</string>
+    <string name="title_back">Voltar</string>
+    <string name="title_images">Imagens</string>
+	<string name="info_location_services_disable">%1$s precisa acessar sua localidade. Por gentileza, ative sua localização</string>
+    <string name="title_image">Imagem</string>
+    <string name="title_custom_search">PERSONALIZADO</string>
+    <string name="title_all_place">Todos os locais no mapa</string>
+    <string name="title_refresh">Atualizar</string>
+    <string name="title_settings">Configurações</string>
+    <string name="info_processing_data">Em processamento. Por favor, espere...</string>
+    
+    <string name="info_about_us"><b>\"%1$s\"</b> permite você se mover encontrar os melhores melhores e mais maravilhosos lugares a sua volta</string>
+    
+    <string name="title_search">Procurar Localização</string>
+    <string name="title_quick_distance">Trocar Raio</string>
+    
+    <string name="title_place_info">Informação do local</string>
+    <string name="title_user_reviews">Revisões do Usuário</string>
+    
+    <string name="format_reviews">%1$s Revisões</string>
+    <string name="format_review">%1$s Revisões</string>
+    
+    <string name="format_radius">Raio: %1$s %2$s</string>
+    <string name="format_address">Endereço: %1$s </string>
+    <string name="format_area">Area: %1$s </string>
+    <string name="format_lat">Latitude: %1$s </string>
+    <string name="format_long">Longitude: %1$s </string>
+    <string name="format_country">Região: %1$s </string>
+    <string name="format_country_code">Codigo da Região: %1$s </string>
+    <string name="format_add_favorite">Adicionar %1$s aos locais favoritos </string>
+    <string name="format_remove_favorite">Remover %1$s dos locais favoritos</string>
+    
+    <string name="title_units">Sistemas de unidade</string>
+    <string name="title_piority">Prioridade</string>
+    <string name="title_travel_modes">Modelos de Viagem</string>
+    
+    <string name="info_loading_more">Procurando mais locais perto de você. Por favor, espere...</string>
+    
+    <string name="title_improve_location">Aperfeiçoe sua localidade</string>
+    <string name="title_location_services_disable">Serviço de localização desabilitado</string>
+    
+    <string name="title_enable">Ativado</string>
+    <string name="info_get_location_error">Erro ao pegar localização. Por favor, tente novamente mais tarde</string>
+    <string name="info_gps_enable">Ligue o GPS para melhorar sua localização</string>
+    <string name="info_process_find_location">Encontrando sua localização. Aguarde...</string>
+    <string name="info_format_process_find_location">Começando busca por %1$s perto de você </string>
+    <string name="info_format_process_detail_location">Começando a pegar informações de %1$s </string>
+    <string name="info_show_again">Não me mostre novamente</string>
+    <string name="info_no_location">Não foi possível encontrar locais ao seu redor</string>
+    
+    <string name="menu_location_terrain">Visão do Terreno</string>
+    <string name="menu_location_satellite">Visão do Satélite</string>
+    <string name="menu_location_traffic">Visão do Trafégo</string>
+    <string name="menu_location_details">Informações do local</string>
+    
+    <string name="tab_infomation">Informação</string>
+    <string name="tab_map">Mapa</string>
+
+    <string-array name="metric_array">
+        <item>Quilômetros</item>
+        <item>Milhas</item>
+    </string-array>
+    
+    <string-array name="sorting_array">
+        <item>Distância</item>
+        <item>Classificação</item>
+    </string-array>
+    
+    <string-array name="travel_mode_array">
+        <item>Dirigindo</item>
+        <item>Andando</item>
+    </string-array>
+    
+    <string name="title_distance">Distância</string>
+    <string name="title_rating">Classificação</string>
+    <string name="format_distance">Distância: ~%1$s</string>
+    
+    <string name="title_get_directions">Obter Direções</string>
+    
+    <string name="title_sort_by_distance">Ordenar pela distancia</string>
+    <string name="title_sort_by_rating">Ordenar pela classificação</string>
+
+    <string name="title_contact_us">Contate-nos</string>
+    <string name="info_contact_us">Contate-nos se você precisar de alguma ajuda</string>
+    <string name="link_contact_us">Email</string>
+    
+    <string name="title_website">Website</string>
+    <string name="info_website">Visite nosso website</string>
+    <string name="title_google_plus">Google +</string>
+    <string name="info_google_plus">Visite nossa página</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="info_facebook">Visite nossa fanpage</string>
+    <string name="title_rate_us">Classifique-nos</string>
+    <string name="info_rate_us">Classifique-nos na Google Play Store</string>
+    <string name="title_more_app">Mais apps</string>
+    <string name="info_more_app">Curta nossas apllicações.</string>
+    <string name="info_no_result">Nenhum resultado encontrado</string>
+    <string name="quit_message">Você deseja fechar essa aplicação?</string>
+    <string name="info_delete_favorites">Você deseja deletar todas as suas localidades favoritas?</string>
+    <string name="info_no_delete_favorites">Nenhuma localidade favorita para deletar!</string>
+    <string name="title_warning_close">Sair</string>
+    <string name="info_lose_internet">Sem conexão com a internet.Por favor, verifique sua conexão novamente!</string>
+    <string name="info_empty">Entre com a senha por favor!</string>
+    <string name="info_close_app">Você deseja sair da aplicação?</string>
+    <string name="info_server_error">Não conseguimos conectar com o servidor. Por favor, tente novamente!</string>
+    <string name="info_parse_error">Não conseguimos processar os dados. Por favor, tente novamente!</string>
+    <string name="dircache">/leilões</string>
+    <string name="lru_dircache">leilões</string>
+    <string name="info_login_facebook_error">Falha ao entrar com Facebook! Tente novamente</string>
+    <string name="info_login_twitter_error">Falha ao entrar com Twitter! Tente novamente</string>
+    <string name="drawer_open">Abrir gaveta de navegação</string>
+    <string name="drawer_close">Fechar gaveta de navegação</string>
+    
+    <string name="info_version_format">Versão %1$s</string>
+    <string name="info_distance_km_format">~ %1$s km</string>
+    <string name="info_distance_miles_format">~ %1$s mi</string>
+    <string name ="format_start_address"><Data><![CDATA[<font color=\'#999999\'>From&nbsp;</font><font color=\'#000000\'>%1$s</font>]]></Data></string>
+    <string name ="format_end_address"><Data><![CDATA[<font color=\'#999999\'>To&nbsp;</font><font color=\'#000000\'>%1$s</font>]]></Data></string>
+    <string name ="format_duration_distance"><Data><![CDATA[<font color=\'#000000\'>%1$s&nbsp;</font><font color=\'#999999\'>(%2$s)</font>]]></Data></string>
+    <string name ="format_sumary"><Data><![CDATA[<font color=\'#999999\'>Via %1$s</font>]]></Data></string>
+
+    <string-array name="list_options">
+        <item>Home</item>
+        <item>Minha localização</item>
+        <item>Favoritos</item>
+        <item>Configurações</item>
+        <item>Sobre nós</item>
+    </string-array>
+
+</resources>
